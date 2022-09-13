@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science and medical technology
 - 🌱 I’m currently learning data science and analysis skills
 - 📫 How to reach me on linkedIn https://www.linkedin.com/in/feyza-a-6248a1120/
--
 
 <!---
 superfeyza/superfeyza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
